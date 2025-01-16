@@ -42,4 +42,4 @@ The main goal is to collect data from all the players performing treasure hunts.
 # Dofus Data Center (DDC)
 ## [DDC](https://github.com/Dofus-Batteries-Included/DDC): Get data extracted from the game client
 
-Exposes data extracted from the game client in [its Github Releases](https://github.com/Dofus-Batteries-Included/DDC/releases/tag/latest).
+Exposes data extracted from the game client in [its Github Releases](https://github.com/Dofus-Batteries-Included/DDC/releases/latest).
